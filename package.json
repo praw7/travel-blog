@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sanity-plugin-leaflet-input": "^1.0.1"
+  }
+}
